@@ -163,3 +163,5 @@ cython_debug/
 
 # not needed
 poetry.lock
+
+.DS_Store
